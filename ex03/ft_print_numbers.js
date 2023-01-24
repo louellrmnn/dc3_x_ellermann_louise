@@ -1,5 +1,5 @@
 function printNumbers() {
-    var numbers = "zéro un deux trois quatre cinq six sept huit neuf";
+    var numbers = "0 1 2 3 4 5 6 7 8 9";
     console.log(numbers);
 }
 
